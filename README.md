@@ -89,6 +89,7 @@ The list below is sorted by **GitHub Stars_Count (Descending)** ⭐.
 - ⌨️ **Best Open-Source for Plain-Text / Developers:** **Beancount** or **hledger** (version-controlled data, command-line speed).
 - 🏢 **Best Open-Source Enterprise ERP:** **ERPNext** (full ERP capabilities beyond standalone accounting).
 - 💻 **Best Offline-First Desktop App:** **Frappe Books** or **GnuCash** (local data storage, zero cloud lock-in).
+- 📊 **Independent AP & Expense Tool Comparisons:** [CashFlow Pick](https://cashflowpick.com/best-ap-automation-software/) (free buyer's guides for accounts payable automation and expense software, plus an [AP ROI calculator](https://cashflowpick.com/ap-automation-roi-calculator/)).
 
 ---
 
